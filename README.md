@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maram Gowthami</h1>
-<h3 align="center">I'm a Passionate  Coder and Making My Hands Dirty on DeepLearning and NLP</h3>
+<h3 align="center">I'm a Passionate  Coder and Making My Hands Dirty On DeepLearning And NLP</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gowthami123-sudo542&label=Profile%20views&color=0e75b6&style=flat" alt="gowthami123-sudo542" /> </p>
 
